@@ -1,0 +1,6 @@
+{
+  "name": "OFFERGUARD AI",
+  "description": "Verify Before You Trust. AI-powered Fake Offer Letter & Phishing Inspector for detecting fraudulent job offers, phishing recruitment URLs, and payment scams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
